@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Birdhouse">
+<rect x="92" y="150" width="16" height="44" rx="3" fill="#16202E"/>
+<rect x="46" y="78" width="108" height="80" rx="10" fill="#d97706"/>
+<path d="M34 86 L100 26 L166 86 Z" fill="#16202E" stroke="#16202E" stroke-width="8" stroke-linejoin="round"/>
+<circle cx="100" cy="110" r="17" fill="#16202E"/>
+<circle cx="100" cy="140" r="6" fill="#16202E"/>
+<circle cx="64" cy="98" r="5" fill="#F5C542"/>
+<circle cx="136" cy="98" r="5" fill="#F5C542"/>
+<circle cx="64" cy="140" r="5" fill="#F5C542"/>
+<circle cx="136" cy="140" r="5" fill="#F5C542"/>
+</svg>
